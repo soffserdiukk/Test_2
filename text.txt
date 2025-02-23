@@ -6,4 +6,6 @@ Hello World
 Hello World
 Hello World (оцей рядок приховуємо)
 Hello world -- from remote 
+line for commit
+one more line for commit
 
