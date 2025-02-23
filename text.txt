@@ -1,13 +1,11 @@
 Hello world
 Hello world
 Hello world
-<<<<<<< HEAD
 Hello World
 Hello World
 Hello World
 Hello World (оцей рядок приховуємо)
-=======
 Hello world -- from remote 
->>>>>>> 5f61f1d72b980fc808f34e61ebb1f075a9d33bb2
 line for commit
 one more line for commit
+
